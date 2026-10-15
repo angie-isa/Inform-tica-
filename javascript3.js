@@ -10,7 +10,7 @@ let boton= document.getElementById("btn-ingresar");
 
 // escuchamos el evento que dispara el boton
 
-boton.addEventListener (click,function(){
+boton.addEventListener ("click",function(){
 alert(nomIng.value);
 
 
